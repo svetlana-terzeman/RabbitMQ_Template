@@ -1,0 +1,7 @@
+fastapi==0.68.1
+uvicorn==0.15.0
+celery==5.2.2
+pika==1.2.1
+redis==4.1.0
+flower==1.0.0
+python-logging-loki==0.3.1
