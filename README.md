@@ -142,4 +142,9 @@ delay - время для имитации работы
 
 
 ## Установка и запуск
-
+```bash
+git clone https://github.com/svetlana-terzeman/RabbitMQ_Template
+cd RabbitMQ_Template
+docker compose build 
+docker compose up   
+```
